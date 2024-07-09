@@ -1,0 +1,8 @@
+.purchased {
+    text-decoration: line-through;
+    background-color: lightgray;
+}
+.edit {
+    color: blue;
+    cursor: pointer;
+}
